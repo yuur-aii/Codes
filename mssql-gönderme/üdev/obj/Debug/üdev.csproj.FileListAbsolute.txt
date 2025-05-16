@@ -1,0 +1,10 @@
+D:\codes\üdev\üdev\bin\Debug\üdev.exe.config
+D:\codes\üdev\üdev\bin\Debug\üdev.exe
+D:\codes\üdev\üdev\bin\Debug\üdev.pdb
+D:\codes\üdev\üdev\obj\Debug\üdev.csproj.AssemblyReference.cache
+D:\codes\üdev\üdev\obj\Debug\üdev.Form1.resources
+D:\codes\üdev\üdev\obj\Debug\üdev.Properties.Resources.resources
+D:\codes\üdev\üdev\obj\Debug\üdev.csproj.GenerateResource.cache
+D:\codes\üdev\üdev\obj\Debug\üdev.csproj.CoreCompileInputs.cache
+D:\codes\üdev\üdev\obj\Debug\üdev.exe
+D:\codes\üdev\üdev\obj\Debug\üdev.pdb

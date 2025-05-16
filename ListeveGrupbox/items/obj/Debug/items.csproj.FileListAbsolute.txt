@@ -1,0 +1,10 @@
+E:\codes\items\items\bin\Debug\items.exe.config
+E:\codes\items\items\bin\Debug\items.exe
+E:\codes\items\items\bin\Debug\items.pdb
+E:\codes\items\items\obj\Debug\items.csproj.AssemblyReference.cache
+E:\codes\items\items\obj\Debug\items.Form1.resources
+E:\codes\items\items\obj\Debug\items.Properties.Resources.resources
+E:\codes\items\items\obj\Debug\items.csproj.GenerateResource.cache
+E:\codes\items\items\obj\Debug\items.csproj.CoreCompileInputs.cache
+E:\codes\items\items\obj\Debug\items.exe
+E:\codes\items\items\obj\Debug\items.pdb

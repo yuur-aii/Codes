@@ -1,0 +1,12 @@
+E:\codes\Uygulama 2-BK\Uygulama 2-BK\bin\Debug\Uygulama 2-BK.exe.config
+E:\codes\Uygulama 2-BK\Uygulama 2-BK\bin\Debug\Uygulama 2-BK.exe
+E:\codes\Uygulama 2-BK\Uygulama 2-BK\bin\Debug\Uygulama 2-BK.pdb
+E:\codes\Uygulama 2-BK\Uygulama 2-BK\obj\Debug\Uygulama 2-BK.csproj.AssemblyReference.cache
+E:\codes\Uygulama 2-BK\Uygulama 2-BK\obj\Debug\Uygulama_2_BK.DersForm_BK.resources
+E:\codes\Uygulama 2-BK\Uygulama 2-BK\obj\Debug\Uygulama_2_BK.kisiselbilgiler_bk.resources
+E:\codes\Uygulama 2-BK\Uygulama 2-BK\obj\Debug\Uygulama_2_BK.Form1.resources
+E:\codes\Uygulama 2-BK\Uygulama 2-BK\obj\Debug\Uygulama_2_BK.Properties.Resources.resources
+E:\codes\Uygulama 2-BK\Uygulama 2-BK\obj\Debug\Uygulama 2-BK.csproj.GenerateResource.cache
+E:\codes\Uygulama 2-BK\Uygulama 2-BK\obj\Debug\Uygulama 2-BK.csproj.CoreCompileInputs.cache
+E:\codes\Uygulama 2-BK\Uygulama 2-BK\obj\Debug\Uygulama 2-BK.exe
+E:\codes\Uygulama 2-BK\Uygulama 2-BK\obj\Debug\Uygulama 2-BK.pdb

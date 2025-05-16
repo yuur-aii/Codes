@@ -1,0 +1,12 @@
+E:\codes\tık\tık\bin\Debug\tık.exe.config
+E:\codes\tık\tık\bin\Debug\tık.exe
+E:\codes\tık\tık\bin\Debug\tık.pdb
+E:\codes\tık\tık\obj\Debug\tık.csproj.AssemblyReference.cache
+E:\codes\tık\tık\obj\Debug\tık.Properties.Resources.resources
+E:\codes\tık\tık\obj\Debug\tık.csproj.GenerateResource.cache
+E:\codes\tık\tık\obj\Debug\tık.csproj.CoreCompileInputs.cache
+E:\codes\tık\tık\obj\Debug\tık.exe
+E:\codes\tık\tık\obj\Debug\tık.pdb
+E:\codes\tık\tık\obj\Debug\tık.frmAnaMenu.resources
+E:\codes\tık\tık\obj\Debug\tık.frmDersler.resources
+E:\codes\tık\tık\obj\Debug\tık.frmNufus.resources

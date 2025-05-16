@@ -1,0 +1,10 @@
+E:\codes\-_-\-_-\obj\Debug\-_-.csproj.AssemblyReference.cache
+E:\codes\-_-\-_-\obj\Debug\___.Form1.resources
+E:\codes\-_-\-_-\obj\Debug\___.Properties.Resources.resources
+E:\codes\-_-\-_-\obj\Debug\-_-.csproj.GenerateResource.cache
+E:\codes\-_-\-_-\obj\Debug\-_-.csproj.CoreCompileInputs.cache
+E:\codes\-_-\-_-\bin\Debug\-_-.exe.config
+E:\codes\-_-\-_-\bin\Debug\-_-.exe
+E:\codes\-_-\-_-\bin\Debug\-_-.pdb
+E:\codes\-_-\-_-\obj\Debug\-_-.exe
+E:\codes\-_-\-_-\obj\Debug\-_-.pdb
