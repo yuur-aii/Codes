@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\codes\\\u00FCdev\\",
+  "WorkspaceRootPath": "D:\\codes\\github\\mssql-g\u00F6nderme\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09FBB2B7-C574-447E-BED1-C0BA3AE5901F}|\u00FCdev\\\u00FCdev.csproj|d:\\codes\\\u00FCdev\\\u00FCdev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09FBB2B7-C574-447E-BED1-C0BA3AE5901F}|\u00FCdev\\\u00FCdev.csproj|d:\\codes\\github\\mssql-g\u00F6nderme\\\u00FCdev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09FBB2B7-C574-447E-BED1-C0BA3AE5901F}|\u00FCdev\\\u00FCdev.csproj|solutionrelative:\u00FCdev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\codes\\\u00FCdev\\\u00FCdev\\Form1.cs",
+              "DocumentMoniker": "D:\\codes\\github\\mssql-g\u00F6nderme\\\u00FCdev\\Form1.cs",
               "RelativeDocumentMoniker": "\u00FCdev\\Form1.cs",
-              "ToolTip": "D:\\codes\\\u00FCdev\\\u00FCdev\\Form1.cs",
+              "ToolTip": "D:\\codes\\github\\mssql-g\u00F6nderme\\\u00FCdev\\Form1.cs",
               "RelativeToolTip": "\u00FCdev\\Form1.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAADwv3cAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwHcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T11:54:34.216Z",
               "EditorCaption": ""

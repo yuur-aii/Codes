@@ -33,6 +33,7 @@
             this.klncadtxt_si = new System.Windows.Forms.TextBox();
             this.sifretxt_si = new System.Windows.Forms.TextBox();
             this.gndrbtn_si = new System.Windows.Forms.Button();
+            this.ynhspbtn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // klncadlbl_si
@@ -77,11 +78,23 @@
             this.gndrbtn_si.UseVisualStyleBackColor = true;
             this.gndrbtn_si.Click += new System.EventHandler(this.gndrbtn_si_Click);
             // 
+            // ynhspbtn
+            // 
+            this.ynhspbtn.Location = new System.Drawing.Point(398, 270);
+            this.ynhspbtn.Name = "ynhspbtn";
+            this.ynhspbtn.Size = new System.Drawing.Size(72, 21);
+            this.ynhspbtn.TabIndex = 5;
+            this.ynhspbtn.Text = "Yeni Hesap";
+            this.ynhspbtn.UseVisualStyleBackColor = true;
+            this.ynhspbtn.Click += new System.EventHandler(this.ynhspbtn_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Bisque;
             this.ClientSize = new System.Drawing.Size(499, 323);
+            this.Controls.Add(this.ynhspbtn);
             this.Controls.Add(this.gndrbtn_si);
             this.Controls.Add(this.sifretxt_si);
             this.Controls.Add(this.klncadtxt_si);
@@ -101,6 +114,7 @@
         private System.Windows.Forms.TextBox klncadtxt_si;
         private System.Windows.Forms.TextBox sifretxt_si;
         private System.Windows.Forms.Button gndrbtn_si;
+        private System.Windows.Forms.Button ynhspbtn;
     }
 }
 

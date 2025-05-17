@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\codes\\WindowsFormsApp2\\",
+  "WorkspaceRootPath": "D:\\codes\\github\\Kay\u0131t\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBE7497F-1F91-463D-8338-580606159271}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\codes\\windowsformsapp2\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BBE7497F-1F91-463D-8338-580606159271}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\codes\\github\\kay\u0131t\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BBE7497F-1F91-463D-8338-580606159271}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBE7497F-1F91-463D-8338-580606159271}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\codes\\WindowsFormsApp2\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBE7497F-1F91-463D-8338-580606159271}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\codes\\github\\Kay\u0131t\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBE7497F-1F91-463D-8338-580606159271}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\codes\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "DocumentMoniker": "D:\\codes\\github\\Kay\u0131t\\WindowsFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
-              "ToolTip": "D:\\codes\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "D:\\codes\\github\\Kay\u0131t\\WindowsFormsApp2\\Form1.cs",
               "RelativeToolTip": "WindowsFormsApp2\\Form1.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAAFUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\codes\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "DocumentMoniker": "D:\\codes\\github\\Kay\u0131t\\WindowsFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
-              "ToolTip": "D:\\codes\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs [Design]",
+              "ToolTip": "D:\\codes\\github\\Kay\u0131t\\WindowsFormsApp2\\Form1.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T10:48:55.726Z",

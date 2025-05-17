@@ -4,12 +4,14 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace ___
 {
+   
     public partial class Form1 : Form
     {
         int i = 0;
@@ -18,29 +20,45 @@ namespace ___
 
             InitializeComponent();
         }
-
+        
         private void gndrbtn_si_Click(object sender, EventArgs e)
         {
+
+
+
             string kullaniciadi = klncadtxt_si.Text;
             string sifre = sifretxt_si.Text;
-            if (kullaniciadi == "Aymes" && sifre == "12345")
+
+            if (kullaniciadi == Hesap_Oluştur.yenikullanici && sifre == Hesap_Oluştur.yenisifre)
             {
-                MessageBox.Show("Giriş Başarılı."); klncadtxt_si.Clear(); sifretxt_si.Clear();
+                MessageBox.Show("Giriş Başarılı.");
+                klncadtxt_si.Clear();
+                sifretxt_si.Clear();
             }
             else
             {
-
-                i = i + 1;
+                i++;
                 int maxi = 3;
-                int kalan;
-                kalan = maxi - i;
+                int kalan = maxi - i;
 
-                MessageBox.Show("Şifre ya da kullanıcı adı hatalı, " + kalan + " hakkınız kaldı."); klncadtxt_si.Clear(); sifretxt_si.Clear();
+                MessageBox.Show("Şifre ya da kullanıcı adı hatalı, " + kalan + " hakkınız kaldı.");
+                klncadtxt_si.Clear();
+                sifretxt_si.Clear();
+
                 if (i == maxi)
                 {
-                    MessageBox.Show("Hakkınız Kalmadı."); Application.Exit();
+                    MessageBox.Show("Hakkınız kalmadı.");
+                    Application.Exit();
                 }
             }
         }
+
+
+
+        private void ynhspbtn_Click(object sender, EventArgs e)
+            {
+                Hesap_Oluştur HesapForm = new Hesap_Oluştur();
+                HesapForm.ShowDialog();
+            }
+        }
     }
-}

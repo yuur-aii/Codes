@@ -8,3 +8,14 @@ E:\codes\-_-\-_-\bin\Debug\-_-.exe
 E:\codes\-_-\-_-\bin\Debug\-_-.pdb
 E:\codes\-_-\-_-\obj\Debug\-_-.exe
 E:\codes\-_-\-_-\obj\Debug\-_-.pdb
+D:\codes\github\Şifre Kullanıcı Adı Uygulaması\-_-\bin\Debug\-_-.exe.config
+D:\codes\github\Şifre Kullanıcı Adı Uygulaması\-_-\bin\Debug\-_-.exe
+D:\codes\github\Şifre Kullanıcı Adı Uygulaması\-_-\bin\Debug\-_-.pdb
+D:\codes\github\Şifre Kullanıcı Adı Uygulaması\-_-\obj\Debug\-_-.csproj.AssemblyReference.cache
+D:\codes\github\Şifre Kullanıcı Adı Uygulaması\-_-\obj\Debug\___.Form1.resources
+D:\codes\github\Şifre Kullanıcı Adı Uygulaması\-_-\obj\Debug\___.Hesap_Oluştur.resources
+D:\codes\github\Şifre Kullanıcı Adı Uygulaması\-_-\obj\Debug\___.Properties.Resources.resources
+D:\codes\github\Şifre Kullanıcı Adı Uygulaması\-_-\obj\Debug\-_-.csproj.GenerateResource.cache
+D:\codes\github\Şifre Kullanıcı Adı Uygulaması\-_-\obj\Debug\-_-.csproj.CoreCompileInputs.cache
+D:\codes\github\Şifre Kullanıcı Adı Uygulaması\-_-\obj\Debug\-_-.exe
+D:\codes\github\Şifre Kullanıcı Adı Uygulaması\-_-\obj\Debug\-_-.pdb
